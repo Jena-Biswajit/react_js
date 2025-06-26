@@ -1,0 +1,39 @@
+- what is functional interface
+- write a code to call method using functional interface
+- what is http response code 
+- what interface are available in collections
+- Difference between runnable and callable 
+- Difference between string buffer and string loader 
+- What about immutability?
+- Difference between Arraylist and vector
+- exception handling program
+- difference between equals() method and == operator ?
+- Hashmap internal implementation 
+- what is object class 
+- write Java code to print out all the methods. Internal method of object class.
+- write a program to print 1st non repeated character
+- Difference between @RestController and @Controller
+- Difference between @Component and @ComponentScan
+- What is @SpringBootApplication mean .
+- What is bean .
+- what is the difference between primary key and uique key
+- what design pattern you know .
+- what is docker 
+- what is lombok
+- what is the differnce between arraylist and linkedlist
+- what is the difference between hashset and hashmap 
+- what is concurrenthashmap 
+- waht is difference between concurrent hashmap and set 
+- which collection is better for sorting and which is better for searching 
+- what is 2nd level of cache in hibernet .
+- what is the difference between @Primary and @Qualifier .
+- Differences between concurrent HashMap and Synchronized Map.
+- what is predicate in java
+- differnce between java8 , java 17 and java 21
+- how to handle exception and error in java
+- what is garbage collection and finalize() works during garbase collection.
+  
+
+
+so the summary here is . strengthen thread , collection , exception handling 
+  
